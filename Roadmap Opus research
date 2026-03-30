@@ -1,0 +1,367 @@
+# Striver's A2Z DSA Sheet: Complete Breakdown and 3-Month Roadmap
+
+Striver's A2Z DSA Sheet contains exactly **454 problems across 18 steps**, progressing from programming basics through advanced algorithms — and this report maps every section, sub-step, and problem count into a week-by-week plan covering April 1 through June 30. The sheet, created by Raj Vikramaditya (Striver) on takeUforward.org, was last updated December 13, 2025. Its difficulty split is **133 Easy (29%), 184 Medium (41%), and 137 Hard (30%)** — a distribution that closely mirrors FAANG interview question composition, where medium-difficulty problems dominate.
+
+---
+
+## The complete 18-step structure with every sub-step
+
+Below is the definitive structure pulled from the official tracker at takeuforward.org, cross-referenced with multiple GitHub solution repositories for sub-step accuracy.
+
+### Step 1: Learn the Basics — 31 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Things to Know in C++/Java/Python or any language | 1 |
+| Lec 2 | Build-up Logical Thinking (Pattern Problems) | 17 |
+| Lec 3 | Learn STL/Java-Collections or similar | 0 (conceptual) |
+| Lec 4 | Know Basic Maths | 7 |
+| Lec 5 | Learn Basic Recursion | 4 |
+| Lec 6 | Learn Basic Hashing | 2 |
+
+### Step 2: Learn Important Sorting Techniques — 7 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Sorting-I (Selection, Bubble, Insertion Sort) | 3 |
+| Lec 2 | Sorting-II (Merge Sort, Quick Sort, Recursive Bubble Sort) | 4 |
+
+### Step 3: Solve Problems on Arrays — 40 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Easy Array Problems | 14 |
+| Lec 2 | Medium Array Problems | 14 |
+| Lec 3 | Hard Array Problems | 12 |
+
+### Step 4: Binary Search — 32 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | BS on 1D Arrays | 13 |
+| Lec 2 | BS on Answers | 14 |
+| Lec 3 | BS on 2D Arrays | 5 |
+
+### Step 5: Strings (Basic and Medium) — 15 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Basic and Easy String Problems | 7 |
+| Lec 2 | Medium String Problems | 8 |
+
+### Step 6: Learn LinkedList — 31 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Learn 1D LinkedList | 6 |
+| Lec 2 | Learn Doubly LinkedList | 4 |
+| Lec 3 | Medium Problems of LL | 11 |
+| Lec 4 | Medium Problems of DLL | 3 |
+| Lec 5 | Hard Problems of LL | 7 |
+
+### Step 7: Recursion (PatternWise) — 25 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Get a Strong Hold | 7 |
+| Lec 2 | Subsequences Pattern | 9 |
+| Lec 3 | Trying out all Combos / Hard | 9 |
+
+### Step 8: Bit Manipulation — 18 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Learn Bit Manipulation | 5 |
+| Lec 2 | Interview Problems | 8 |
+| Lec 3 | Advanced Maths | 5 |
+
+### Step 9: Stack and Queues — 30 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Learning | 7 |
+| Lec 2 | Prefix, Infix, Postfix Conversion Problems | 6 |
+| Lec 3 | Monotonic Stack/Queue Problems (Very Important) | 11 |
+| Lec 4 | Implementation Problems | 6 |
+
+### Step 10: Sliding Window & Two Pointer — 12 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Medium Problems | 5 |
+| Lec 2 | Hard Problems | 7 |
+
+### Step 11: Heaps — 17 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Learning | 3 |
+| Lec 2 | Medium Problems | 7 |
+| Lec 3 | Hard Problems | 7 |
+
+### Step 12: Greedy Algorithms — 16 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Easy Problems | 6 |
+| Lec 2 | Medium/Hard Problems | 10 |
+
+### Step 13: Binary Trees — 39 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Traversals | 13 |
+| Lec 2 | Medium Problems | 14 |
+| Lec 3 | Hard Problems | 12 |
+
+### Step 14: Binary Search Trees — 16 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Concepts | 6 |
+| Lec 2 | Practice Problems | 10 |
+
+### Step 15: Graphs — 53 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Learning (Graph Representation) | 5 |
+| Lec 2 | Problems on BFS/DFS | 14 |
+| Lec 3 | Topo Sort and Problems | 6 |
+| Lec 4 | Shortest Path Algorithms and Problems | 13 |
+| Lec 5 | Minimum Spanning Tree / Disjoint Set | 10 |
+| Lec 6 | Other Algorithms | 5 |
+
+### Step 16: Dynamic Programming — 56 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Introduction to DP | 1 |
+| Lec 2 | 1D DP | 6 |
+| Lec 3 | 2D/3D DP and DP on Grids | 7 |
+| Lec 4 | DP on Subsequences | 10 |
+| Lec 5 | DP on Strings | 7 |
+| Lec 6 | DP on Stocks | 6 |
+| Lec 7 | DP on LIS | 5 |
+| Lec 8 | MCM DP / Partition DP | 8 |
+| Lec 9 | DP on Squares | 2 |
+
+(Note: ~4 problems may shift slightly between sub-steps depending on version.)
+
+### Step 17: Tries — 7 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Theory | 3 |
+| Lec 2 | Problems | 4 |
+
+### Step 18: Strings (Advanced) — 9 problems
+| Lecture | Topic | Problems |
+|---------|-------|----------|
+| Lec 1 | Hard String Problems | 9 |
+
+---
+
+## Which topics matter most for FAANG interviews
+
+Not all 454 problems carry equal weight. Interview frequency data from 2024-2025 reveals a clear hierarchy, and the A2Z sheet's heaviest sections align well with what FAANG companies actually ask.
+
+**Tier 1 — The Big Four (~50% of FAANG questions):** Arrays (Step 3, 40 problems), Dynamic Programming (Step 16, 56 problems), Graphs (Step 15, 53 problems), and Binary Trees + BSTs (Steps 13-14, 55 problems combined). These four topic clusters total **204 problems — 45% of the sheet** — and dominate real interviews at Google, Meta, Amazon, Apple, and Netflix. DP is Amazon's favorite; Graphs are Google's and Meta's bread and butter; Trees appear everywhere.
+
+**Tier 2 — High ROI (~30% of interview questions):** Binary Search (Step 4, 32 problems) appears far more often than beginners expect — "binary search on answers" is a recurring FAANG pattern. Sliding Window & Two Pointer (Step 10, 12 problems) delivers outsized interview value relative to its small size. Stacks & Queues (Step 9, 30 problems) — especially **monotonic stack problems** — are a favorite at Amazon and Microsoft. Linked Lists (Step 6, 31 problems) round out this tier.
+
+**Tier 3 — Important but less frequent:** Recursion & Backtracking (Step 7), Greedy Algorithms (Step 12), Heaps (Step 11), and Tries (Step 17) collectively appear in roughly 15-20% of interviews. Backtracking problems like N-Queens and Sudoku Solver remain popular. Heaps show up for "Top K" and "Median from Stream" patterns.
+
+**Tier 4 — Foundational, can speed through:** Basics (Step 1), Sorting (Step 2), Bit Manipulation (Step 8), and basic Strings (Step 5). Essential knowledge but rarely the focus of an interview question. Skip Step 1 entirely if you already know a programming language.
+
+---
+
+## Recommended solving order and strategy
+
+Striver designed the sheet to be followed sequentially (Steps 1→18), and this order works well for **learning** because each topic builds on the previous one. However, for **interview-optimized preparation** with a deadline, a modified approach performs better.
+
+The key insight is to **front-load high-frequency topics** while maintaining the dependency chain. You can't tackle DP without recursion, and you can't do graph problems without understanding BFS/DFS from trees. The 3-month plan below respects these dependencies while prioritizing interview ROI.
+
+**Time allocation per problem matters.** Community consensus recommends: **Easy — 25 minutes max**, **Medium — 40 minutes max**, **Hard — 60 minutes max**. If you're stuck beyond that threshold, read the editorial, understand the approach, then code it. The Brute → Better → Optimal progression Striver teaches is more valuable than solving blind.
+
+Two critical study habits: First, the **3-7-15 spaced repetition rule** — revisit solved problems on days 3, 7, and 15 after first solving them. Second, **flag every problem you couldn't solve independently**; these become your revision list in Week 13.
+
+---
+
+## Your 3-month roadmap: April 1 – June 30, 2026
+
+This plan assumes **3-4 hours of focused daily practice**, yielding roughly 5 problems per day. The 13-week structure covers all 454 problems and reserves the final week for revision. Daily problem counts fluctuate — earlier topics are faster (many Easy problems), while later weeks have fewer but harder problems requiring more thinking time.
+
+### Month 1: Build the foundation (Weeks 1–4)
+
+**Week 1 (Apr 1–7) — Basics + Sorting | 38 problems**
+Step 1 (31) and Step 2 (7). Many basics problems are conceptual or pattern-based, so you can solve 6-7 per day. Focus on deeply understanding recursion basics and hashing — these underpin everything later. Implement merge sort and quick sort from scratch; don't just memorize.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon | Lec 1 (language basics) + Lec 2 (patterns 1-8) | 9 |
+| Tue | Lec 2 (patterns 9-17) | 9 |
+| Wed | Lec 3 (STL/Collections) + Lec 4 (Basic Maths) | 7 |
+| Thu | Lec 5 (Basic Recursion) + Lec 6 (Hashing) | 6 |
+| Fri | Sorting-I: Selection, Bubble, Insertion | 3 |
+| Sat | Sorting-II: Merge Sort, Quick Sort | 4 |
+| Sun | Review + re-solve any flagged problems | — |
+
+**Week 2 (Apr 8–14) — Arrays: Easy + Medium | 28 problems**
+Step 3 Lectures 1-2. Arrays are the single most important topic for interviews. Every problem here teaches a pattern you'll reuse constantly: two-pointer, prefix sum, Kadane's algorithm, Dutch National Flag.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon–Tue | Easy Array Problems (Lec 1) | 7 + 7 |
+| Wed–Fri | Medium Array Problems (Lec 2) | 5 + 5 + 4 |
+| Sat–Sun | Revision + re-solve medium problems | — |
+
+**Week 3 (Apr 15–21) — Arrays: Hard + Binary Search Start | 26 problems**
+Step 3 Lec 3 (12 Hard) + Step 4 Lec 1 begin (14). Hard array problems like 3Sum, 4Sum, Merge Overlapping Intervals, and Count Inversions are **direct FAANG favorites**. Allocate extra time here.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon–Wed | Hard Array Problems (Step 3 Lec 3) | 4 + 4 + 4 |
+| Thu–Sat | BS on 1D Arrays (Step 4 Lec 1) | 5 + 5 + 3 |
+| Sun | Revision of hard arrays + BS patterns | 1 |
+
+**Week 4 (Apr 22–28) — Binary Search Complete | 19 problems**
+Step 4 Lectures 2-3. "Binary Search on Answers" is an **underrated interview pattern** — Koko Eating Bananas, Aggressive Cows, Book Allocation. These appear frequently and trip up candidates who only know basic BS.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon–Wed | BS on Answers (Lec 2) | 5 + 5 + 4 |
+| Thu–Fri | BS on 2D Arrays (Lec 3) | 3 + 2 |
+| Sat–Sun | Revision: all of Arrays + Binary Search | — |
+
+### Month 2: Core data structures and patterns (Weeks 5–9)
+
+**Week 5 (Apr 29 – May 5) — Strings + LinkedList Basics | 25 problems**
+Step 5 (15) + Step 6 Lec 1-2 (10). Strings are often tested alongside DP or sliding window. For linked lists, implement from scratch — don't rely on library structures.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon–Tue | Basic/Easy String Problems (Lec 1) | 4 + 3 |
+| Wed–Thu | Medium String Problems (Lec 2) | 4 + 4 |
+| Fri | Learn 1D LinkedList (Lec 1) | 6 |
+| Sat | Learn Doubly LinkedList (Lec 2) | 4 |
+| Sun | Revision | — |
+
+**Week 6 (May 6–12) — LinkedList Medium/Hard + Recursion Start | 28 problems**
+Step 6 Lec 3-5 (21) + Step 7 Lec 1 (7). Medium LL problems — reverse, detect cycle, find intersection — are **interview staples**. Hard LL problems like Reverse in K Groups and Flattening separate strong from average candidates.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon–Tue | Medium LL Problems (Lec 3) | 6 + 5 |
+| Wed | Medium DLL Problems (Lec 4) | 3 |
+| Thu–Fri | Hard LL Problems (Lec 5) | 4 + 3 |
+| Sat | Recursion — Get a Strong Hold (Lec 1) | 7 |
+| Sun | Revision of LinkedList problems | — |
+
+**Week 7 (May 13–19) — Recursion + Bit Manipulation | 36 problems**
+Step 7 Lec 2-3 (18) + Step 8 (18). The Subsequences pattern in recursion is the **direct precursor to DP** — master it here and DP becomes dramatically easier. Bit manipulation is lower FAANG frequency but quick to learn.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon–Tue | Subsequences Pattern (Lec 2) | 5 + 4 |
+| Wed–Thu | Trying all Combos / Hard recursion (Lec 3) | 5 + 4 |
+| Fri | Learn Bit Manipulation (Step 8 Lec 1) | 5 |
+| Sat | Bit Interview Problems (Lec 2) | 8 |
+| Sun | Advanced Maths (Lec 3) + Revision | 5 |
+
+**Week 8 (May 20–26) — Stacks & Queues | 30 problems**
+Step 9 in full. **Monotonic stack problems (Lec 3) are extremely important** — Next Greater Element, Largest Rectangle in Histogram, Trapping Rain Water, and Stock Span appear constantly in interviews. Don't rush this section.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon | Learning Stack/Queue basics (Lec 1) | 7 |
+| Tue | Prefix/Infix/Postfix Conversions (Lec 2) | 6 |
+| Wed–Fri | Monotonic Stack/Queue (Lec 3) — allocate extra time | 4 + 4 + 3 |
+| Sat | Implementation Problems (Lec 4) | 6 |
+| Sun | Revision — redo all monotonic stack problems | — |
+
+**Week 9 (May 27 – Jun 2) — Sliding Window + Heaps + Greedy | 45 problems**
+Steps 10 (12) + 11 (17) + 12 (16). Three smaller topics combined. Sliding Window delivers **incredible ROI** — 12 problems that teach patterns appearing in ~15% of interviews. Heaps are essential for "Top K" and streaming problems.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon | Sliding Window Medium (Lec 1) | 5 |
+| Tue | Sliding Window Hard (Lec 2) | 7 |
+| Wed | Heaps Learning (Lec 1) + Medium (Lec 2 start) | 3 + 4 |
+| Thu | Heaps Medium (finish) + Hard (Lec 3 start) | 3 + 4 |
+| Fri | Heaps Hard (finish) | 3 |
+| Sat | Greedy Easy (Lec 1) + Medium/Hard start (Lec 2) | 6 + 4 |
+| Sun | Greedy Medium/Hard finish + Revision | 6 |
+
+### Month 3: Advanced topics and mastery (Weeks 10–13)
+
+**Week 10 (Jun 3–9) — Binary Trees | 39 problems**
+Step 13 in full. Trees are **Tier 1 interview material**. Traversals (inorder, preorder, postorder, level-order) must become automatic. Medium problems like LCA, diameter, and path sums dominate interviews. Hard problems like Morris Traversal and Serialize/Deserialize separate senior candidates.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon–Tue | Traversals (Lec 1) | 7 + 6 |
+| Wed–Thu | Medium Tree Problems (Lec 2) | 7 + 7 |
+| Fri–Sat | Hard Tree Problems (Lec 3) | 6 + 6 |
+| Sun | Revision — redraw tree diagrams for all hard problems | — |
+
+**Week 11 (Jun 10–16) — BSTs + Graphs Part 1 | 41 problems**
+Step 14 (16) + Step 15 Lec 1-3 (25). BST concepts (validation, LCA, inorder successor) are frequently tested. Then begin graphs with representation, BFS/DFS, and topological sort — the most common graph interview patterns.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon | BST Concepts (Lec 1) | 6 |
+| Tue–Wed | BST Practice Problems (Lec 2) | 5 + 5 |
+| Thu | Graph Representation (Step 15 Lec 1) | 5 |
+| Fri–Sat | BFS/DFS Problems (Lec 2) | 7 + 7 |
+| Sun | Topo Sort and Problems (Lec 3) | 6 |
+
+**Week 12 (Jun 17–23) — Graphs Part 2 + DP Part 1 | 49 problems**
+Step 15 Lec 4-6 (28) + Step 16 Lec 1-3 (14). Shortest path algorithms (Dijkstra, Bellman-Ford, Floyd-Warshall) and MST/Union-Find are advanced but appear in Google and Meta interviews. Begin DP with 1D and grid-based problems.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon–Tue | Shortest Path Algorithms (Lec 4) | 7 + 6 |
+| Wed | MST / Disjoint Set (Lec 5) | 10 |
+| Thu | Other Graph Algorithms (Lec 6) | 5 |
+| Fri | DP Intro + 1D DP (Lec 1-2) | 7 |
+| Sat | 2D/3D DP and Grids (Lec 3) | 7 |
+| Sun | Revision of graphs + DP basics | — |
+
+**Week 13 (Jun 24–30) — DP Part 2 + Tries + Advanced Strings + Revision | 58 problems**
+Step 16 Lec 4-9 (42) + Step 17 (7) + Step 18 (9). This is the most intense week. DP on Subsequences, Strings, Stocks, LIS, and Partition DP are all high-value interview patterns. Push through — by now you have the recursion foundation from Week 7 to support this.
+
+| Day | Focus | Problems |
+|-----|-------|----------|
+| Mon | DP on Subsequences (Lec 4) | 10 |
+| Tue | DP on Strings (Lec 5) | 7 |
+| Wed | DP on Stocks (Lec 6) + DP on LIS (Lec 7) | 6 + 5 |
+| Thu | MCM / Partition DP (Lec 8) + DP on Squares (Lec 9) | 8 + 2 |
+| Fri | Tries Theory + Problems (Step 17) | 7 |
+| Sat | Advanced Strings (Step 18) | 9 |
+| Sun | **Full revision day** — redo all flagged problems | — |
+
+---
+
+## Difficulty distribution across topics tells you where to slow down
+
+The sheet's 29/41/30 split (Easy/Medium/Hard) isn't uniform across steps. Understanding where difficulty concentrates helps you budget time.
+
+**Steps with the highest Hard-problem density:** Graphs (Step 15) and DP (Step 16) have the most hard problems — roughly 40-50% of their problems qualify as Hard. Binary Trees (Step 13) and Arrays Hard (Step 3 Lec 3) follow. These four sections demand the most time per problem and are where candidates most often stall.
+
+**Steps that are fastest to complete:** Sorting (Step 2, 7 problems), Sliding Window (Step 10, 12 problems), and Tries (Step 17, 7 problems) are compact. Don't let their small size fool you — Sliding Window and Tries are high-frequency interview topics relative to problem count.
+
+**The "Easy-heavy" front-loading is intentional.** Steps 1-5 contain most of the Easy problems, building confidence and pattern recognition before Medium and Hard problems dominate Steps 6-18. The roadmap above respects this design.
+
+---
+
+## Summary table for quick reference
+
+| Step | Topic | Problems | FAANG Priority | Week |
+|------|-------|----------|---------------|------|
+| 1 | Learn the Basics | 31 | Tier 4 | 1 |
+| 2 | Sorting Techniques | 7 | Tier 4 | 1 |
+| 3 | Arrays (Easy → Hard) | 40 | **Tier 1** | 2–3 |
+| 4 | Binary Search | 32 | **Tier 2** | 3–4 |
+| 5 | Strings (Basic/Medium) | 15 | Tier 3 | 5 |
+| 6 | LinkedList | 31 | Tier 2 | 5–6 |
+| 7 | Recursion | 25 | Tier 3 | 6–7 |
+| 8 | Bit Manipulation | 18 | Tier 4 | 7 |
+| 9 | Stacks & Queues | 30 | **Tier 2** | 8 |
+| 10 | Sliding Window & Two Pointer | 12 | **Tier 2** | 9 |
+| 11 | Heaps | 17 | Tier 3 | 9 |
+| 12 | Greedy Algorithms | 16 | Tier 3 | 9 |
+| 13 | Binary Trees | 39 | **Tier 1** | 10 |
+| 14 | Binary Search Trees | 16 | **Tier 1** | 11 |
+| 15 | Graphs | 53 | **Tier 1** | 11–12 |
+| 16 | Dynamic Programming | 56 | **Tier 1** | 12–13 |
+| 17 | Tries | 7 | Tier 3 | 13 |
+| 18 | Strings (Advanced) | 9 | Tier 3 | 13 |
+| | **TOTAL** | **454** | | |
+
+## Conclusion
+
+The roadmap above compresses 454 problems into 12 working weeks plus one revision week, averaging **~5 problems daily at 3-4 hours of focused practice**. Three non-obvious insights from this analysis: First, completing even 80% of the sheet with deep understanding outperforms rushing through 100% — if time runs short, deprioritize Bit Manipulation (Step 8) and Advanced Strings (Step 18) before cutting anything from Trees, Graphs, or DP. Second, the real bottleneck isn't problem count but **pattern transfer** — the 10 core patterns (Two Pointers, Sliding Window, Binary Search, DFS/BFS, DP, Backtracking, Merge Intervals, Monotonic Stack, Union-Find, Heap) cover ~80% of what FAANG interviews test. Third, Week 7's recursion work on subsequence patterns is the single highest-leverage week in the entire plan, because it directly unlocks DP — the largest and hardest section. Invest extra time there, and DP in Weeks 12-13 becomes dramatically more manageable.
